@@ -1,5 +1,12 @@
-# For first change
-# For second change
+# Function: 
+# investigate data related to bike share systems in three major US cities: 
+#	1-Chicago
+#	2-New York City
+#	3-Washington. 
+# Import the data and answer interesting questions about it by computing b>descriptive statistics/b>. 
+# also will take raw input and generate an interactive experience in the terminal to present these statistics.
+#
+
 import time
 import pandas as pd
 import numpy as np
